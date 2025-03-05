@@ -6,7 +6,7 @@
 
 <h1 align="center">CompositeGames</h1>
 <p align="center">The Best Way To Play Game's In School</p>
-<p align="Center">This Site Was Made By Me (Bobby)</p>
+<p align="Center">This Site Was Made By Me (Nitro)</p>
 <a href="https://www.youtube.com/@nitrogames101?sub_comfermation=1"><img height="30px"  src="[[https://www.flaticon.com/free-icon/youtube_1384060]]></a>
 
 
