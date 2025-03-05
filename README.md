@@ -1,6 +1,6 @@
 <p align="center">
  
-  <img src="https://sz-games.github.io/G-Google.png" width="150px" height="150px">
+  <img src="[https://sz-games.github.io/G-Google.png](https://ejo-nitro.github.io/compositegames.github.io/)" width="150px" height="150px">
 
 </p>
 
