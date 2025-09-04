@@ -6,7 +6,9 @@
 
 <h1 align="center">CompositeDriveGames</h1>
 <p align="center">The Best Way To Play Game's In School</p>
-<p align="Center">This Site Was Made By Nitro & Wyatt </p>
+<p align="center">This Site Was Made By Nitro & Wyatt </p>
+<p algin="center">(c)2025 Composite Drive Games, a trademark owned by @NitroGames101 & @WyattDaMemer on youtube.If you want to support us. Please SUBSCRIBE to our YouTube channels (@NitroGames101& @WyattDaMemer) subscribing will help make this project POSSIBLE
+
 <a href="https://www.youtube.com/@nitrogames101?sub_comfermation=1"><img height="30px"  src="[[https://www.flaticon.com/free-icon/youtube_1384060]]></a>
 
 
